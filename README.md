@@ -142,7 +142,7 @@ else if
 int x=1;
 while (x <= 100) {
          console.log(x);
-         ++i;
+         ++x;
       }
 ```
 10.  Research a [function](https://javascript.info/function-basics) so that your condition runs on every number from 0 to whatever number is passed into the function
