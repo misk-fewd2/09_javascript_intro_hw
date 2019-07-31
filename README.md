@@ -26,15 +26,15 @@ c = a;
 ### Your solution here:
 1.  What is `a`?
 ```
-a is ...
+a is bongos
 ```
 2.  What is `b`?
 ```
-b is ...
+b is true
 ```
 3.  What is `c`?
 ```
-c is ...
+c is 1
 ```
 
 ## Activity Concatenation
@@ -91,14 +91,14 @@ h) 9 !== 8 + 1
 ### Your solution here:
 7.  Write `true` or `false` based on the list above
 ```
-a) 
-b)  
-c)
-d) 
-e) 
-f) 
-g) 
-h) 
+a) false
+b)  true
+c)false
+d) false
+e) false
+f) false
+g) true
+h) false
 ```
 
 ## Activity Conditionals
