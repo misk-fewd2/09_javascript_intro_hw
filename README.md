@@ -13,7 +13,7 @@
 ## Activity Assignment
 Without running the following code, try to determine:
 
-```js
+```js  
 let a = 1;
 let b = 'bongos';
 let c = true;
