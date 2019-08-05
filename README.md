@@ -116,7 +116,7 @@ Write a conditional statement that...
 8.  Write your javascript solution below
 ```js
 // your answer here
-```
+
 var userNumber = prompt("Please choose a number between 0 - 100");
    if (userNumber >= 0 || userNumber <= 100){
 if (userNumber % 5 == 0 && userNumber % 3 == 0) {
@@ -129,6 +129,7 @@ if (userNumber % 5 == 0 && userNumber % 3 == 0) {
   console.log(userNumber);
 }
    }
+   ```
 #### BONUS
 9.  Research a [loop](https://javascript.info/while-for) so that your condition runs on every number from 0 to 100
 ```js
